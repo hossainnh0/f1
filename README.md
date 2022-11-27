@@ -1,1 +1,4 @@
-# f1
+# 
+StrymTV
+Free
+Powerful M3U playlist player for iOS.
